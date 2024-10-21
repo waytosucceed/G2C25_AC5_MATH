@@ -1,0 +1,63 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Find how many crystals were left with the pirates after they lost some.<BR>[50 - 10 = ?]",
+    "options":["5","0","","","",""],
+    "answers": ["5","0","1","0","4","0"]
+  },
+  {
+    "questionNo": 2,
+    "question": "They discovered 38 crystals but 5 were too dangerous. Find the number of safe crystals.<BR>[38 - 05 = ?]",
+    "options":["","","0","5","",""],
+    "answers": ["3","8","0","5","3","3"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "They had 57 crystals but had to give up 15. Find out how many crystals they had left.<BR>[57 - 15 = ?]",
+    "options":["","7","1","","",""],
+    "answers": ["5","7","1","5","4","2"]
+  },
+  {
+    "questionNo": 4,
+    "question": "The pirates found 64 crystals but 32 fell into a crevice. Help them in counting the left crystals.<BR>[64 - 32 = ?]",
+    "options":["6","","","2","",""],
+    "answers": ["6","4","3","2","3","2"]
+  },
+  {
+    "questionNo": 5,
+    "question": "Help the pirates by subtracting the crystals they lost in the enchanted pool:<BR>[67 - 41 = ?]",
+    "options":["","","4","1","",""],
+    "answers": ["6","7","4","1","2","6"]
+  },
+  {
+    "questionNo": 6,
+    "question": "Out of 72 buried crystals they salvaged 51 Subtract to find how many crystals were still trapped by:<BR>[72 - 51 = ?] ",
+    "options":["7","2","","","",""],
+    "answers": ["7","2","5","1","2","1"]
+  },
+  {
+    "questionNo": 7,
+    "question": "They earned 48 crystals, but 14 were cursed so dropped them. Find out how many crystals they kept by subtracting.<BR>[48 - 14 = ?]",
+    "options":["","8","1","","",""],
+    "answers": ["4","8","1","4","3","4"]
+  },
+  {
+    "questionNo": 8,
+    "question": "At the next destination they found 79 crystals but 55 were damaged. Subtract to find how many usable crystals they got.<BR>[79 - 55 = ?]",
+    "options":["4","","","5","",""],
+    "answers": ["7","9","5","5","2","4"]
+  },
+  {
+    "questionNo": 9,
+    "question": "They found 84 gems but lost 23. Help them by subtracting to find out how many gems they still have?<BR>[84 - 23 = ?]",
+    "options":["","","2","3","",""],
+    "answers": ["8","4","2","3","6","1"]
+  },
+  {
+    "questionNo": 10,
+    "question": "After their adventure, they had 92 crystals and gave away30. Find out how many crystals were left.<BR>[92 - 30 = ?]",
+    "options":["9","2","","","",""],
+    "answers": ["9","2","3","0","6","2"]
+  }
+]
